@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_background_color_white">#FFFFFFFF</color>
+    <color name="ic_background_color_blue">#8B0040FF</color>
+    <color name="ic_background_color_pink">#FF00FB</color>
+</resources>
